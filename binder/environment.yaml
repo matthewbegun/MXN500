@@ -1,5 +1,0 @@
-hannels:
- - conda-forge
-dependencies:
- - r-base
- - r-tidyverse
