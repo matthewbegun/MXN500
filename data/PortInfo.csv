@@ -1,1 +1,25 @@
-Port Name,State/Territory,Latitude,Longitude,Contact,Port TypePort Kennedy,QLD,-10.582469,142.220078,,PortType.EOPBrisbane,QLD,-27.44142155,153.0683637,http://www.portbris.com.au,PortType.MAJORCairns,QLD,-16.92890741,145.7801971,http://www.cairnsport.com.au,PortType.MAJORBowen,QLD,-20.066667,148.35,http://www.pcq.com.au,PortType.MINORBundaberg,QLD,-24.75,152.4,http://www.portofbundaberg.com.au,PortType.MINORGladstone,QLD,-23.833333,151.583333,http://www.gpcl.com.au,PortType.MINORHay Point,QLD,-21.216667,149.333333,http://www.pcq.com.au,PortType.MINORKarumba,QLD,-17.466667,140.833333,http://www.pcq.com.au,PortType.MINORLockhart River,QLD,-12.795229,143.359708,http://www.cairnsport.com.au,PortType.MINORMackay,QLD,-21.166667,149.233333,http://www.mackayports.com,PortType.MINORPort Moresby,QLD,-17.616667,146.116667,http://www.pcq.com.au,PortType.MINORPort Alma,QLD,-23.583333,150.866667,http://www.msq.qld.gov.au,PortType.MINORTownsville,QLD,-19.25,146.833333,http://www.townsville-port.com.au,PortType.MINORWeipa,QLD,-12.666667,141.85,http://www.pcq.com.au,PortType.MINORCooktown,QLD,-15.466667,145.25,http://www.pcq.com.au,PortType.RESTRICTEDFitzalan Passage,QLD,-20.348168,148.983107,,PortType.RESTRICTEDFunnel Bay,QLD,-20.255836,148.747416,,PortType.RESTRICTEDPercy Island,QLD,-21.646898,150.266361,,PortType.RESTRICTEDCape Flattery,QLD,-14.9847,145.3586,,PortType.MINORAbbot Point,QLD,-19.8759,148.0815,,PortType.MAJORSkardon River,QLD,-11.7571,142.0725,,PortType.MINORWhitsunday,QLD,-20.0478,148.8884,,PortType.MINORSouthport,QLD,-27.9631,153.4317,,PortType.MINORAmrun,QLD,-12.648136,141.822771,,PortType.MINOR
+Port Name,State/Territory,Latitude,Longitude,Contact,Port Type
+Port Kennedy,QLD,-10.582469,142.220078,,PortType.EOP
+Brisbane,QLD,-27.44142155,153.0683637,http://www.portbris.com.au,PortType.MAJOR
+Cairns,QLD,-16.92890741,145.7801971,http://www.cairnsport.com.au,PortType.MAJOR
+Bowen,QLD,-20.066667,148.35,http://www.pcq.com.au,PortType.MINOR
+Bundaberg,QLD,-24.75,152.4,http://www.portofbundaberg.com.au,PortType.MINOR
+Gladstone,QLD,-23.833333,151.583333,http://www.gpcl.com.au,PortType.MINOR
+Hay Point,QLD,-21.216667,149.333333,http://www.pcq.com.au,PortType.MINOR
+Karumba,QLD,-17.466667,140.833333,http://www.pcq.com.au,PortType.MINOR
+Lockhart River,QLD,-12.795229,143.359708,http://www.cairnsport.com.au,PortType.MINOR
+Mackay,QLD,-21.166667,149.233333,http://www.mackayports.com,PortType.MINOR
+Port Moresby,QLD,-17.616667,146.116667,http://www.pcq.com.au,PortType.MINOR
+Port Alma,QLD,-23.583333,150.866667,http://www.msq.qld.gov.au,PortType.MINOR
+Townsville,QLD,-19.25,146.833333,http://www.townsville-port.com.au,PortType.MINOR
+Weipa,QLD,-12.666667,141.85,http://www.pcq.com.au,PortType.MINOR
+Cooktown,QLD,-15.466667,145.25,http://www.pcq.com.au,PortType.RESTRICTED
+Fitzalan Passage,QLD,-20.348168,148.983107,,PortType.RESTRICTED
+Funnel Bay,QLD,-20.255836,148.747416,,PortType.RESTRICTED
+Percy Island,QLD,-21.646898,150.266361,,PortType.RESTRICTED
+Cape Flattery,QLD,-14.9847,145.3586,,PortType.MINOR
+Abbot Point,QLD,-19.8759,148.0815,,PortType.MAJOR
+Skardon River,QLD,-11.7571,142.0725,,PortType.MINOR
+Whitsunday,QLD,-20.0478,148.8884,,PortType.MINOR
+Southport,QLD,-27.9631,153.4317,,PortType.MINOR
+Amrun,QLD,-12.648136,141.822771,,PortType.MINOR
